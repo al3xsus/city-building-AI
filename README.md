@@ -8,7 +8,7 @@ Second, the whole block\street. Imagine, you're just building the roads and mark
 
 Third, the fluid-ness. What do I mean? You see, in ordinary city-building games, you're either choosing the building from pre-made assets or, in the best case, marking the space near the road to be populated with pre-made assets. Imagine marking a huge plot of land and writing in the prompt: "Make me a MegaTower"! And here it is, the giant monstrosity! You can make any of your wishes as big or as small as you want! Big power station? No problem! Tiny high-rise office? Here you are! Elite housing made from the whole mountain? Sure!
 
-Fourth, the game scenario. Imagine, you're just placing houses here and there, and suddenly, the radio talks about a UFO invasion! Police and army trying to shoot aliens and saves abducted, flying saucers taking the peoples out of their homes and destroying property, while all emergency services working around the clock! Absolute chaos! What if your tropical paradise with a bungalow gonna get hit by tsunamis? Or a more down-to-earth scenario, with mass riots!
+Fourth, the game scenario. Imagine, you're just placing houses here and there, and suddenly, the radio talks about a UFO invasion! Police and the army are trying to shoot aliens and save abducted, flying saucers taking the people out of their homes and destroying property, while all emergency services are working around the clock! Absolute chaos! What if your tropical paradise with a bungalow gonna get hit by tsunamis? Or a more down-to-earth scenario, with mass riots!
 
 Fifth, more realistic everything, from the weather and day-night cycle to people's behavior. Imagine watching road accidents! Black Friday madness! 
 
